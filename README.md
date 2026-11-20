@@ -1,4 +1,4 @@
-# FrameForce APK source
+
 
 Minimal LSPosed companion APK for the `FrameForce` module by bababoi. It contains the database whitelist UI and targeted Game Cube hooks for interpolation and super-resolution gates. It does not include thermal spoofing, frequency controls, or a daemon.
 
